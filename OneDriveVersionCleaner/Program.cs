@@ -138,3 +138,5 @@ namespace OneDriveVersionCleaner
     }
   }
 }
+
+// IMPORTANT: This is not production code, and it deletes files from your cloud storage. Use at your own risk!
